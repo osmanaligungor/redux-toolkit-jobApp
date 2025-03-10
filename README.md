@@ -7,6 +7,7 @@
 <p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
 <p>Modern Design.</p>
 <p>I created my own database using JSON-Server as the API.</p>
+<p>By using debounce, we improved performance, prevented unnecessary network traffic, and avoided unnecessary renders.</p>
 
 <h1>Technologies Used</h1>
 
@@ -28,4 +29,5 @@
 
 <h1>Preview</h1>
 
+![Screen Recording 2025-03-10 at 11 41 09](https://github.com/user-attachments/assets/d76f1401-52e1-47a7-8ad9-3e7592fc046c)
 
