@@ -1,0 +1,193 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "id": "d87a9143-58b7-4c65-b0ae-fa18add8c921",
+      "date": 1712307002424
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Coca Cola",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "c1c7f9d1-dcf4-4b51-994f-499f8710f072",
+      "date": 1714602002418
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328
+    },
+    {
+      "position": "Product Manager",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "5fb295d4-ffe7-48a0-bf1b-a6e4e95020d3",
+      "date": 1716607002428
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": 1715607078538
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577
+    },
+    {
+      "id": "9ee5155f-0984-4c16-9f6a-90712facfb78",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1720550896851
+    },
+    {
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552344626
+    },
+    {
+      "id": "730a6fb7-f00a-4696-b344-f1bd39ef2b20",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552364242
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "336e87e4-e8b0-4e29-87a5-2962f6249b32",
+      "date": 1720632154668
+    },
+    {
+      "position": "Tester",
+      "company": "Amazon",
+      "location": "İstanbul, Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1733337378857,
+      "id": "cQjjOZG"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "Mountain View",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "a2f3c4d5-6789-4abc-def0-123456789abc",
+      "date": 1715603002520
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "b3e4d5f6-7890-4bcd-ef01-23456789bdef",
+      "date": 1713608002480
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Amazon",
+      "location": "New York",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "id": "c4f5e6d7-8901-4cde-f012-3456789cdef0",
+      "date": 1711609002380
+    },
+    {
+      "position": "UX Designer",
+      "company": "Meta",
+      "location": "San Francisco",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "d5f6e7d8-9012-4def-0123-456789ddef1",
+      "date": 1710604002285
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Netflix",
+      "location": "Los Angeles",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "e6f7d8e9-0123-4ef0-1234-56789eef0123",
+      "date": 1709602002150
+    },
+    {
+      "position": "DevOps Engineer",
+      "company": "Spotify",
+      "location": "Stockholm",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "f7e8d9f0-1234-4f01-2345-6789ff123456",
+      "date": 1708603002000
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Apple",
+      "location": "Cupertino",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "g8f9e0d1-2345-4f12-3456-7890gg234567",
+      "date": 1707601001850
+    },
+    {
+      "position": "Marketing Analyst",
+      "company": "Tesla",
+      "location": "Austin",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "h9f0e1d2-3456-4f23-4567-8901hh345678",
+      "date": 1706605001700
+    },
+    {
+      "position": "Backend",
+      "company": "Amazon",
+      "location": "İstanbul,Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1741354700096,
+      "id": "rYYPrXr"
+    }
+  ]
+}
